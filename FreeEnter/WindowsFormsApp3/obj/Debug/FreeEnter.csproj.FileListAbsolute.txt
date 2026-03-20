@@ -1,0 +1,10 @@
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\bin\Debug\FreeEnter.exe.config
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\bin\Debug\FreeEnter.exe
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\bin\Debug\FreeEnter.pdb
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.csproj.AssemblyReference.cache
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FreeEnter.resources
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.Properties.Resources.resources
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.csproj.GenerateResource.cache
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.csproj.CoreCompileInputs.cache
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.exe
+C:\Users\ychen\Desktop\FreeEnter\WindowsFormsApp3\obj\Debug\FreeEnter.pdb
